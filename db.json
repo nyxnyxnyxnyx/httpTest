@@ -2,6 +2,6 @@
   "aircrafts":[
     {id:1234,name: 'Pilatus-PC12',home:'KSNA,SNA'},
     {id:2345,name: 'Pilatus-PC12',home:'LIMA,SNA'},
-    {id:2345,name: 'Pilatus-PC12',home:'LIMA,SNA'},
+    {id:2345,name: 'Pilatus-PC12',home:'LIMA,SNA'}
     ]
 }
