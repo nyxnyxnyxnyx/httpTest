@@ -7,7 +7,7 @@
         "letter": "B",
         "color": "blue",
         "rank": "7",
-        "ascii": "71"
+        "ascii": "66"
       },
       "geometry": {
         "type": "Polygon",
@@ -55,7 +55,7 @@
         "letter": "r",
         "color": "yellow",
         "rank": "15",
-        "ascii": "111"
+        "ascii": "114"
       },
       "geometry": {
         "type": "Polygon",
@@ -79,7 +79,7 @@
         "letter": "i",
         "color": "blue",
         "rank": "7",
-        "ascii": "103"
+        "ascii": "105"
       },
       "geometry": {
         "type": "Polygon",
@@ -106,7 +106,7 @@
         "letter": "s",
         "color": "green",
         "rank": "12",
-        "ascii": "108"
+        "ascii": "115"
       },
       "geometry": {
         "type": "Polygon",
